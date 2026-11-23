@@ -1,0 +1,409 @@
+{
+  "generated": "2026-11-23 17:43 UTC",
+  "total": 253,
+  "status_counts": {
+    "3": 108,
+    "1": 106,
+    "4": 27,
+    "2": 11,
+    "0": 1
+  },
+  "connected": 106,
+  "abandoned": 108,
+  "anchors": 26,
+  "cities": [
+    {
+      "city": "Turkistan",
+      "nearest_km": 152,
+      "probes_within": 0,
+      "gap": true
+    },
+    {
+      "city": "Konaev",
+      "nearest_km": 58,
+      "probes_within": 0,
+      "gap": true
+    },
+    {
+      "city": "Zhezkazgan",
+      "nearest_km": 30,
+      "probes_within": 1,
+      "gap": false
+    },
+    {
+      "city": "Kokshetau",
+      "nearest_km": 1,
+      "probes_within": 1,
+      "gap": false
+    },
+    {
+      "city": "Taldykorgan",
+      "nearest_km": 0,
+      "probes_within": 1,
+      "gap": false
+    },
+    {
+      "city": "Petropavl",
+      "nearest_km": 2,
+      "probes_within": 2,
+      "gap": false
+    },
+    {
+      "city": "Atyrau",
+      "nearest_km": 2,
+      "probes_within": 3,
+      "gap": false
+    },
+    {
+      "city": "Kyzylorda",
+      "nearest_km": 2,
+      "probes_within": 3,
+      "gap": false
+    },
+    {
+      "city": "Taraz",
+      "nearest_km": 1,
+      "probes_within": 3,
+      "gap": false
+    },
+    {
+      "city": "Aktau",
+      "nearest_km": 1,
+      "probes_within": 3,
+      "gap": false
+    },
+    {
+      "city": "Oskemen",
+      "nearest_km": 0,
+      "probes_within": 3,
+      "gap": false
+    },
+    {
+      "city": "Semey",
+      "nearest_km": 2,
+      "probes_within": 4,
+      "gap": false
+    },
+    {
+      "city": "Kostanay",
+      "nearest_km": 1,
+      "probes_within": 4,
+      "gap": false
+    },
+    {
+      "city": "Shymkent",
+      "nearest_km": 1,
+      "probes_within": 5,
+      "gap": false
+    },
+    {
+      "city": "Aktobe",
+      "nearest_km": 0,
+      "probes_within": 5,
+      "gap": false
+    },
+    {
+      "city": "Oral",
+      "nearest_km": 1,
+      "probes_within": 6,
+      "gap": false
+    },
+    {
+      "city": "Pavlodar",
+      "nearest_km": 0,
+      "probes_within": 7,
+      "gap": false
+    },
+    {
+      "city": "Karaganda",
+      "nearest_km": 1,
+      "probes_within": 9,
+      "gap": false
+    },
+    {
+      "city": "Astana",
+      "nearest_km": 1,
+      "probes_within": 12,
+      "gap": false
+    },
+    {
+      "city": "Almaty",
+      "nearest_km": 0,
+      "probes_within": 32,
+      "gap": false
+    }
+  ],
+  "gap_count": 2,
+  "asns": [
+    [
+      9198,
+      30
+    ],
+    [
+      197556,
+      15
+    ],
+    [
+      48503,
+      11
+    ],
+    [
+      29355,
+      11
+    ],
+    [
+      21299,
+      8
+    ],
+    [
+      41798,
+      2
+    ],
+    [
+      21282,
+      2
+    ],
+    [
+      208448,
+      2
+    ],
+    [
+      202422,
+      2
+    ],
+    [
+      57008,
+      2
+    ],
+    [
+      205431,
+      2
+    ],
+    [
+      200590,
+      2
+    ],
+    [
+      25534,
+      1
+    ],
+    [
+      39824,
+      1
+    ],
+    [
+      56568,
+      1
+    ],
+    [
+      197686,
+      1
+    ],
+    [
+      41124,
+      1
+    ],
+    [
+      213048,
+      1
+    ],
+    [
+      29046,
+      1
+    ],
+    [
+      35168,
+      1
+    ],
+    [
+      35104,
+      1
+    ],
+    [
+      60930,
+      1
+    ],
+    [
+      58061,
+      1
+    ],
+    [
+      202293,
+      1
+    ],
+    [
+      207333,
+      1
+    ],
+    [
+      208450,
+      1
+    ],
+    [
+      60757,
+      1
+    ],
+    [
+      49791,
+      1
+    ],
+    [
+      48716,
+      1
+    ]
+  ],
+  "loss": [
+    [
+      9198,
+      77,
+      30,
+      44
+    ],
+    [
+      48503,
+      26,
+      11,
+      14
+    ],
+    [
+      29355,
+      21,
+      11,
+      10
+    ],
+    [
+      21299,
+      14,
+      8,
+      6
+    ],
+    [
+      41798,
+      8,
+      2,
+      6
+    ],
+    [
+      41419,
+      4,
+      0,
+      4
+    ],
+    [
+      60757,
+      4,
+      1,
+      3
+    ],
+    [
+      197556,
+      17,
+      15,
+      2
+    ],
+    [
+      29555,
+      3,
+      0,
+      2
+    ],
+    [
+      39824,
+      3,
+      1,
+      2
+    ],
+    [
+      59583,
+      2,
+      0,
+      2
+    ],
+    [
+      58172,
+      2,
+      0,
+      2
+    ],
+    [
+      44477,
+      2,
+      0,
+      2
+    ],
+    [
+      200590,
+      4,
+      2,
+      1
+    ],
+    [
+      21282,
+      3,
+      2,
+      1
+    ]
+  ],
+  "lifespan_median_days": 1219,
+  "lifespan_n": 106,
+  "drop_years": [
+    [
+      2013,
+      3
+    ],
+    [
+      2014,
+      6
+    ],
+    [
+      2015,
+      4
+    ],
+    [
+      2016,
+      2
+    ],
+    [
+      2017,
+      9
+    ],
+    [
+      2018,
+      4
+    ],
+    [
+      2019,
+      6
+    ],
+    [
+      2020,
+      18
+    ],
+    [
+      2021,
+      9
+    ],
+    [
+      2022,
+      10
+    ],
+    [
+      2023,
+      8
+    ],
+    [
+      2024,
+      10
+    ],
+    [
+      2025,
+      6
+    ],
+    [
+      2026,
+      11
+    ]
+  ],
+  "v6_works": 58,
+  "connected_age_median_days": 320
+}
